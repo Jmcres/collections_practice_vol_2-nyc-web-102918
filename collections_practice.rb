@@ -17,3 +17,6 @@ end
 def remove_non_strings(array)
   array.reject {|element| element.class != String}
 end
+
+def count_elements(array)
+  
