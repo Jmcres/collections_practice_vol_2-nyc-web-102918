@@ -4,3 +4,4 @@ def begins_with_r(array)
     word.downcase.chr == "r"
   end
 end
+
